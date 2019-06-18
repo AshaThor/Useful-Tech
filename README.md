@@ -13,3 +13,7 @@ Useful Tech Tutorials and Documentation
 https://interactjs.io/
 
 https://shopify.github.io/draggable/examples/
+
+**React thing**
+
+https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
