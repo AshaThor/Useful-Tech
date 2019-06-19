@@ -17,3 +17,7 @@ https://shopify.github.io/draggable/examples/
 **React thing**
 
 https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
+
+**Not Tech But Still Good**
+
+https://unsplash.com/ <- Free photos, use as website placeholders? Tottally free images
